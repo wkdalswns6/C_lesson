@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/**
+ * 역슬래시 '\' 입력을 위해서는 \\ 이렇게 써야함
+ */
+
 int main(){
     printf("                     _         _          \n");
     printf("                    | |       | |         \n");
